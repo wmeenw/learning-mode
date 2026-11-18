@@ -4,6 +4,8 @@
 
 It explains the theory with examples on *different* material, gives you a detailed step-by-step task, checks your solution like a strict but kind reviewer, and only writes the final answer if you explicitly ask for it.
 
+![learning-mode answering "Write a Swift function that returns the second largest number": theory, a step-by-step task, edge cases to test, and no finished code](docs/demo.gif)
+
 ## Why I made this
 
 A lot of studying today means teaching yourself. Nobody hands you the knowledge on a plate, and it's easy to lose motivation, ask an AI for the solution, paste it in and move on. Then comes the moment you have to explain or defend that code, and you realize you don't understand a single line of it.
