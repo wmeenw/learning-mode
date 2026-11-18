@@ -1,0 +1,10 @@
+{
+  "name": "learning-mode",
+  "version": "1.0.0",
+  "description": "Turns Claude into a tutor who teaches instead of doing your homework: theory on different examples, a step-by-step task, a kind but strict review, and the full solution only when you ask.",
+  "author": {
+    "name": "wmeenw"
+  },
+  "license": "MIT",
+  "keywords": ["learning", "tutor", "education", "students", "homework"]
+}

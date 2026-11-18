@@ -1,0 +1,17 @@
+{
+  "name": "learning-mode",
+  "owner": {
+    "name": "wmeenw"
+  },
+  "metadata": {
+    "description": "A Claude Code skill that teaches instead of doing your homework."
+  },
+  "plugins": [
+    {
+      "name": "learning-mode",
+      "description": "Turns Claude into a tutor who teaches instead of doing your homework.",
+      "source": "./",
+      "category": "learning"
+    }
+  ]
+}
